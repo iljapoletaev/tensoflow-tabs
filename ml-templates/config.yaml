@@ -220,3 +220,4 @@ allowed_tabs:
   install: "Install libraries"
   status: ""
   sources: ""
+  jupyter: ""
